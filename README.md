@@ -11,8 +11,6 @@ based on a directory system.
 
 `mkdir ~/VPN`
 
-* Copy your .ssl and .ovpn files based on this structure.
-
 * Each server has it's own folder. Say you have VPN servers in New York, Budapest and Tokyo. Create three folders for them.
 
 `cd ~/VPN/`
