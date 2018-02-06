@@ -1,5 +1,5 @@
 #!/bin/bash
-locationDirs="$(ls -d */)" &&
+locationDirs="$(ls -d */ | grep -v "startvpn-sh")" &&
     dirsNum=$(echo "$locationDirs" | wc -w) &&
     locationArray=($locationDirs)
 
