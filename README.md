@@ -25,9 +25,9 @@ based on a directory system.
 
 `git clone https://github.com/plaktos/startvpn-sh.git`
 
-* Move the script into the root folder of your VPN directory
+* Copy the script into the root folder of your VPN directory
 
-`mv startvpn-sh/startvpn.sh startvpn.sh`
+`cp startvpn-sh/startvpn.sh startvpn.sh`
 
 * Run the script, you need superuser privileges
 
